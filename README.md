@@ -56,11 +56,6 @@ The final architecture is designed to improve:
 Omni-Signal-Residual-DCN/
 │
 ├── omni-signal-residual-dcn-advanced-ordinal-reasoni.ipynb
-├── outputs/
-│   ├── feature_importance.png
-│   ├── confusion_matrix.png
-│   ├── training_curve.png
-│   └── submission.csv
 ├── LICENSE
 └── README.md
 ```
